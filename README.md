@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @byjackli (or Jack)
+
+
+- 👀 I’m interested in Front-End Development and LS swapping a Honda Odyssey
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+.. I'm gonna come back to this another time.
