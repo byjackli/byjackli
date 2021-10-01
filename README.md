@@ -1,9 +1,22 @@
-👋 Hi, I’m @byjackli (or Jack)
+👋  &nbsp;  Hi, I’m Jack (@byjackli)
+
+<br>
 
 
-👀 I'm working on private repos, hence no activity
-🌱 I’m creating a website builder
-💞️ I’m looking to collaborate on a notetaking app to replace Notion (you have no idea how many days have been derailed by failed Notion servers)
-📫 I'm reachable at twitter.com/byjackli
+👀  &nbsp;  I'm working on private repos, hence no activity
+<br>
 
-.. I'm also gonna come back to this another time.
+🌱  &nbsp;  I’m creating a website builder
+<br>
+
+💞️  &nbsp;  I’m looking to collaborate on a notetaking app to replace Notion 
+<br>
+(you have no idea how many days have been derailed by failed Notion servers)
+<br>
+
+📫  &nbsp;  I'm reachable at twitter.com/byjackli
+
+<br>
+<br>
+
+.. &nbsp;&nbsp; &nbsp; I'm also gonna come back to this another time.
